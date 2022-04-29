@@ -1,2 +1,2 @@
-# Jogo-Shooter-HTML
+# Jogo-Space-Shooter-HTML
 Jogo feito no Bootcamp da DIO Orbi Web Games
