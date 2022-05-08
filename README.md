@@ -2,7 +2,7 @@
 ---
 
 Projeto desenvolvido com instruções de [Gabriela Pinheiro] na trilha de estudo do Bootcamp "DIO Orbi Web Games" da [dio.me].
-
+Este projeto para mim foi o mais dificil...1 semana batendo muita cabeça, onde pensei em desistir varias vezes, mas no final consegui vencer e estou muito feliz com o resultado deixei como queria, espero que curtam.
 <p align="center">
 	<img alt="Repository language count" src="https://img.shields.io/github/languages/count/TiagoPS2/Jogo-Space-Shooter-HTML">
 	<a href="https://www.linkedin.com/in/gabrielapinheiro129/">
