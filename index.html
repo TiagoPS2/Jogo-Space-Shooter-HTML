@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="estilos.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap"
+      rel="stylesheet"
+    />
+    <title>SHOOTER</title>
+  </head>
+  <body>
+    <div id="apresentacao">
+      <h4>Não deixe os inimigos invadirem seu planeta!</h4>
+
+      <div class="mov">
+        <p>Movimentar nave:</p>
+        <img src="img/left.png" alt="tecla seta esquerda" />
+        <img src="img/right.png" alt=" tecla seta direita" />
+      </div>
+      <div class="tiro">
+        <img src="img/space-bar.png" alt="tecla espaço" /> para Atirar
+      </div>
+
+      <button class="start-button" onclick="playGame()">START</button>
+    </div>
+    <div id="restart">
+      <div class="gameOver">GAME OVER</div>
+      <button class="restart-button" onclick="restart()">RESTART</button>
+    </div>
+    <div id="main-play-area" class="main-play-area">
+      <div id="pontuacao"></div>
+      <div id="vida"></div>
+      <div id="player-chip" class="player-shooter"></div>
+    </div>
+    <!-- Sons do jogo -->
+    <audio src="songs/back-song.ogg" preload="auto" id="somBack"></audio>
+    <audio src="songs/exp-song.mp3" preload="auto" id="somExplosao"></audio>
+    <audio src="songs/laser-song.mp3" preload="auto" id="somLaser"></audio>
+    <audio
+      src="songs/gameover-song.ogg"
+      preload="auto"
+      id="somGameover"
+    ></audio>
+    <audio src="songs/life-song.mp3" preload="auto" id="somLife"></audio>
+  </body>
+  <script src="script.js"></script>
+</html>
