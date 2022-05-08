@@ -31,10 +31,19 @@ Projeto desenvolvido com instruções de [Gabriela Pinheiro] na trilha de estudo
 Link da base utilizada neste projeto: [SpruceGabriela/space-shooter-dio].
 
 ### Previa do jogo abaixo:
-
+ - Teste o jogo aqui: https://diospaceshooter.netlify.app
+ 
+![image](https://user-images.githubusercontent.com/102334852/167278139-fd7510b5-55d3-4f67-979d-ca4472865a29.png)
 
 ---
-
+### Modificações e adições no Codigo:
+ - Função e botão restart do jogo
+ - Sons
+ - Sistemas de vida
+ - Pontuação
+ - Adições de Do...While's e switch's 
+ - Aperfeicoação na colisão
+---
 Links Interessantes:
 * [HTML5]
 * [CSS]
