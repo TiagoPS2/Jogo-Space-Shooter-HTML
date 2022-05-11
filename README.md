@@ -8,7 +8,7 @@ Este projeto para mim foi o mais dificil...1 semana batendo muita cabeça, onde 
 	<a href="https://www.linkedin.com/in/gabrielapinheiro129/">
 		<img alt="Made by Gabriela" src="https://img.shields.io/badge/made%20by-Gabriela-blue">
 	</a>
-	<a href="https://www.linkedin.com/in/tiago-santos-433083229/">
+	<a href="https://www.linkedin.com/in/tiagops2/">
 		<img alt="Update by TiagoPS2" src="https://img.shields.io/badge/update%20by-TiagoPS2-green">
 	</a>
 	<a href="https://github.com/TiagoPS2/Jogo-Space-Shooter-HTML/commits/main">
